@@ -1,0 +1,7 @@
+{
+  "name": "ionicEnergyApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
